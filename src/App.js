@@ -10,6 +10,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState("Home"); // Ensure it's "Home" (capital H)
 
   const renderPage = () => {
+    console.log("Current Page:", currentPage); // Debugging
     switch (currentPage) {
       case "Leaderboard":
         return <Leaderboard />;
@@ -20,7 +21,7 @@ function App() {
       case "MarketPlace":
         return <MarketPlace />;
       default:
-        return <Home setCurrentPage={setCurrentPage} />; // Pass setCurrentPage as a prop
+        return <Home />;
     }
   };
 

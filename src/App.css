@@ -27,6 +27,8 @@ nav {
 /* Navigation Buttons */
 nav button {
   background: #333;
+  z-index: 9999;
+  position: relative;
   color: white;
   border: none;
   padding: 12px 18px;

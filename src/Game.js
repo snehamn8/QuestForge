@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import dungeonBg from "./assets/dungeon.jpg";
+// import dungeonBg from "./assets/dungeon.jpg";
 import "./Game.css";
 
 const questions = [
