@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QuestForge/static/css/main.49daca5d.css",
-    "main.js": "/QuestForge/static/js/main.9ef0104b.js",
+    "main.css": "/QuestForge/static/css/main.dca5a7e0.css",
+    "main.js": "/QuestForge/static/js/main.1b7caffd.js",
     "static/js/453.66e550e8.chunk.js": "/QuestForge/static/js/453.66e550e8.chunk.js",
     "static/media/dungeon.jpg": "/QuestForge/static/media/dungeon.b1c8ae9b2877c83d5640.jpg",
     "index.html": "/QuestForge/index.html",
-    "main.49daca5d.css.map": "/QuestForge/static/css/main.49daca5d.css.map",
-    "main.9ef0104b.js.map": "/QuestForge/static/js/main.9ef0104b.js.map",
+    "main.dca5a7e0.css.map": "/QuestForge/static/css/main.dca5a7e0.css.map",
+    "main.1b7caffd.js.map": "/QuestForge/static/js/main.1b7caffd.js.map",
     "453.66e550e8.chunk.js.map": "/QuestForge/static/js/453.66e550e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49daca5d.css",
-    "static/js/main.9ef0104b.js"
+    "static/css/main.dca5a7e0.css",
+    "static/js/main.1b7caffd.js"
   ]
 }
